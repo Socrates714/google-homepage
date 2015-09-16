@@ -1,0 +1,55 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+a {
+	text-decoration: none;
+}
+
+.top_bar {
+    text-align: right;
+}
+.log-in {
+	background-color: blue;
+	color: white;
+	padding: 2px 0px 2px 0px;
+}
+
+#google_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+    height: 95px;
+    width: 296px;
+}
+
+.text_box {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 296px;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 5px;
+}
+
+#footer {
+	width: 99%;
+	position: absolute;
+	bottom: 0px;
+}
+
+.bottom {
+	float: left;
+
+}
+.bottom_right {
+	float: right;
+	right: 3px;
+}
